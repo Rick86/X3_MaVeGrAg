@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.1",
+	"SemVersion": "1.0.1",
+	"FriendlyName": "x3_mavegrag",
+	"Description": "Better Vehicles is a mod with multiple improvements for vehicles (like crash prevention, path copy/paste and more) in Tier 1.",
+	"Category": "Modding",
+	"CreatedBy": "x3008x",
+	"CreatedByURL": "https://ficsit.app/mod/5sdhs3ZQbL2mku",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://ficsit.app/mod/5sdhs3ZQbL2mku",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"SemVersion": "^3.0.0",
+			"bIsOptional": false,
+			"Enabled": true
+		}
+	]
+}
